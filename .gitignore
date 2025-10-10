@@ -1,1 +1,4 @@
 .DS_Store
+
+# PostgreSQL 데이터 디렉토리 제외
+data/
